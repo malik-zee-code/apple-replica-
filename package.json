@@ -1,0 +1,14 @@
+{
+  "name": "apple-replica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd apple-replica-backend && npm start",
+    "client": "cd apple-replica-frontend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
